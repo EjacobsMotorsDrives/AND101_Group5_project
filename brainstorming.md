@@ -35,4 +35,34 @@ RB3/rb4  allows us to compare who would win based of types
 recycle viewer2  
 
 
+UI 
+Home screen 
+buttons 
+    deathmatch
+    view moves
+    view sweet hot pokemon sprites 
+cool as fuck pokemon logo 
+sick ass sweet pokemon typed background (rad as fuck)
+
+
+Gallery 
+Sick moves 
+battle
+
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+
+
+
 
