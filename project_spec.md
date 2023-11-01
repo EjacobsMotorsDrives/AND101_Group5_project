@@ -8,8 +8,12 @@
 1. [Build Notes](#Build-Notes)
 
 ## App Overview
+  Allows user to pull 10 random pokekom from the either ether view stats or have them fight to the death 
 
 ### Description 
+upon startup app conjures 10 random pokemon from the spirit realm. 
+USer can select a pokemon  and either view move sets or choose pokemon deathmatch illegal fight to the death banned in fourteen countries 
+and force pokemon to fight to the death for our entertainment 
 
 **Description of your app**
 
@@ -18,11 +22,16 @@
 <!-- Evaluation of your app across the following attributes -->
 
 - **Category:**
+- informational
 - **Mobile:**
 - **Story:**
+- the oldest story 
 - **Market:**
+- the best market
 - **Habit:**
+- the best habits 
 - **Scope:**
+- GLobal
 
 ## Product Spec
 
