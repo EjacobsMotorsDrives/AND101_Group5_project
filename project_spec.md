@@ -79,7 +79,7 @@ Required Feature
 
 ## Wireframes
 
-https://imgur.com/4TfKJIw
+![wireFrame](https://imgur.com/4TfKJIw.png)
 
 ### [BONUS] Digital Wireframes & Mockups
 
