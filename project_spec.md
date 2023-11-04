@@ -8,14 +8,20 @@
 1. [Build Notes](#Build-Notes)
 
 ## App Overview
-  Allows user to pull 10 random pokekom from the either ether view stats or have them fight to the death 
+  
+  Resource for avid pokemon users to help them make roster decisions when selecting between different pokemon.
+  Users can compare select and from 10 pokemon and view basic info. A selected pokemons base stats and move set can be viewed 
+  individually. Also users can compare two pokemons competitve status based on type compatabilities.
+   
 
 ### Description 
-upon startup app conjures 10 random pokemon from the spirit realm. 
-USer can select a pokemon  and either view move sets or choose pokemon deathmatch illegal fight to the death banned in fourteen countries 
-and force pokemon to fight to the death for our entertainment 
+Startin screeen is a homepage that allows you to start a new process. 
+This advances you to a recycle viewer of 10 pokemon. We can select from the 10 pokemon to advance to two further views.
+1st view is a detailed look at an individual pokemons base stats and move set.
+2nd view is a comparison based on type between two selected pokemon
+from any of the three pages you can return to the start page and reselect a new set of pokemon. 
 
-**Description of your app**
+
 
 ### App Evaluation
 
@@ -50,8 +56,14 @@ Stretch Features:
 ### 2. Chosen API(s)
 
 - **list first API endpoint here**
+-  https://pokeapi.co/api/v2/pokemon/
   - **list associated required feature here**
-  - ...
+  - ...pulls data from the following subsets
+  - pokemon
+  - type
+  - moves
+  - sprites
+  - stats
 - ...
 
 ### 3. User Interaction
