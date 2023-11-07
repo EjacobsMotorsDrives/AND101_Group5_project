@@ -28,16 +28,20 @@ from any of the three pages you can return to the start page and reselect a new 
 <!-- Evaluation of your app across the following attributes -->
 
 - **Category:**
-- informational
+- informational specific to the niche of pokemon roster optimization
+- and evaluation for all those pokemaniacs out there 
 - **Mobile:**
+- Interface and layout is meant to allow you to quickly view a group
+- of pokemon and compare them on the fly. 
 - **Story:**
 - the oldest story 
 - **Market:**
-- the best market
+- its a fun app targeting a small demographic of pokemon cultists and competitors
 - **Habit:**
-- the best habits 
+- not very habit forming it is a utility app related to a series of video game 
 - **Scope:**
-- GLobal
+- We have a well defined scope that i believe is achievable to get a basic version
+- that is functional with a rough UI that might be unpleasing to the eye 
 
 ## Product Spec
 
@@ -45,8 +49,10 @@ from any of the three pages you can return to the start page and reselect a new 
 
 Required Features:
 
-- **fill in here**
-- ...
+- **recycle viewer that allows us to see 10 pokemon. **
+- **a view that allows us to compare pokemon by type**
+- **a view that allow us to compare moves by pokemon**
+- **a landing page that we can return to at any time to pull 10 new pokemon to examanine**
 
 Stretch Features:
 
@@ -70,12 +76,15 @@ Stretch Features:
 
 Required Feature
 
-- **list first user action here**
-  - => **list result of user action here**
+- **landing page start button that pulls 10 new pokemon into app**
+  - => **10 new pokemon jsonobjects pullled from the spirit realm **
   - ...
-- **list second user action here**
-  - => **list result of user action here**
-  - ...
+- **select to switch between recycle viewer by move or by type view**
+  - => **switches between views **
+- **select two pokemon to compare by type**
+  - => **goes to versus view  **
+
+   - ...
 
 ## Wireframes
 
