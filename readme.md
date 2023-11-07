@@ -1,6 +1,6 @@
 <!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
-# AND101 Milestone 1 - **Team/App Name**
+# AND101 Milestone 1 - **PokeMaster-decisionMaster-9000**
 
 Submitted by:
 - **Chris Riverra**
@@ -8,7 +8,7 @@ Submitted by:
 - **Eric Jacobs**
 - **Enrique Rodriguez**
 
-Time spent: **X** hours spent in total
+Time spent: **7** hours spent in total
 
 ## Summary
 
@@ -33,7 +33,7 @@ The following REQUIRED files are included:
   - [x] Final app idea chosen
 - [x] Included 📄 `project_spec.md`, which contains:
   - [x] App Overview: Description and evaluation
-  - [ ] App Spec: User features, Chosen API(s), User Interactions
+  - [x] App Spec: User features, Chosen API(s), User Interactions
   - [x] Wireframe image(s)
 
 The following BONUS features are implemented:
